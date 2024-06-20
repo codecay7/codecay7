@@ -2,6 +2,7 @@
 # 💫 About Me:
 I am doing JavaScript project-based learning.<br>BCA student.<br>Opensource contributer.
 
+[![](https://visitcount.itsvg.in/api?id=codecay7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codecay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codecay) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/codecay) 
