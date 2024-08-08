@@ -1,7 +1,6 @@
 ### Hi there, Thanks for stopping by.
 # 💫 About Me:
-I am doing JavaScript project-based learning.<br>BCA student.<br>Opensource contributer.
-
+an aspiring Full Stack developer [MERN] with a passion for crafting digital experiences. Currently, I'm delving into the fascinating world of MERN stack development.
 [![](https://visitcount.itsvg.in/api?id=codecay7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
