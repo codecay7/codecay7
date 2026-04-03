@@ -1,22 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Diwakar%20Kumar&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Freelancer%20%7C%20Delhi%2C%20India&descAlignY=60&descSize=16&descColor=8b949e" width="100%" alt="Profile header"/>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=40&lines=Always+figuring+out+%E2%9C%A8;Shipping+ideas+into+products+%F0%9F%9A%80" alt="Typing animation"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,supabase,tailwind,vite&theme=dark" alt="Core tech stack"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-0d1117?style=for-the-badge&labelColor=58a6ff&color=0d1117" alt="Views"/>
-  <img src="https://img.shields.io/github/followers/codecay7?style=for-the-badge&labelColor=58a6ff&color=0d1117&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/codecay7?style=for-the-badge&labelColor=58a6ff&color=0d1117&logo=github" alt="Stars"/>
-</p>
-
----
 ---
 
 ## 📊 GitHub Analytics
@@ -34,6 +18,20 @@
 
 <p align="center">
   <img src="https://github.com/codecay7/codecay7/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=450&height=40&lines=Always+figuring+out+%E2%9C%A8;Shipping+ideas+into+products+%F0%9F%9A%80" alt="Typing animation"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,supabase,tailwind,vite&theme=dark" alt="Core tech stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-0d1117?style=for-the-badge&labelColor=58a6ff&color=0d1117" alt="Views"/>
+  <img src="https://img.shields.io/github/followers/codecay7?style=for-the-badge&labelColor=58a6ff&color=0d1117&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/codecay7?style=for-the-badge&labelColor=58a6ff&color=0d1117&logo=github" alt="Stars"/>
 </p>
 
 ---
