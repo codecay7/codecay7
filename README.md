@@ -17,7 +17,26 @@
 </p>
 
 ---
+---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codecay7&show_icons=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecay7&theme=transparent&stroke=58a6ff&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codecay7&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/codecay7/codecay7/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</p>
+
+---
 ## 👋 About Me
 
 * 🚀 Building **production fullstack apps** — auth to payments to deploy
@@ -68,20 +87,6 @@ SaaS app with in-browser AI background removal via TensorFlow.js. Credit-based p
   <a href="https://github.com/codecay7/cocable"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github" alt="Source Code"/></a>
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codecay7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecay7&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codecay7&theme=tokyonight" width="100%" />
-</p>
 
 ---
 
