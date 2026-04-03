@@ -1,39 +1,48 @@
-### Hi there, Thanks for stopping by.
-# 💫 About Me:
-An aspiring Full Stack developer [MERN] with a passion for crafting digital experiences. 
-Currently, I'm delving into the fascinating world of MERN stack development.
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Diwakar%20Kumar&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Freelancer%20%7C%20Delhi%2C%20India&descAlignY=55&descSize=18&descColor=8b949e" width="100%"/>
+</p>
 
+<!-- TYPING SVG - Just the hook/flair -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Animations+that+breathe+life+into+pixels+%E2%9C%A8;Shipping+ideas+into+products+%F0%9F%9A%80" alt="Typing animation showing developer taglines" />
+  </a>
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=codecay7&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- STATIC TECH STACK - Instant scannability -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,supabase,tailwind,vite&theme=dark" alt="Core tech stack: React, TypeScript, Node.js, Express, MongoDB, Supabase, Tailwind, Vite"/>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codecay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codecay) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/codecay) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codecay7&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=codecay7&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codecay7&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=codecay7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- BADGES ROW -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codecay7&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile view counter"/>
+  <a href="https://github.com/codecay7?tab=followers">
+    <img src="https://img.shields.io/github/followers/codecay7?label=Followers&style=for-the-badge&color=58a6ff&logo=github" alt="GitHub follower count"/>
+  </a>
+  <a href="https://github.com/codecay7?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/codecay7?label=Total%20Stars&style=for-the-badge&color=58a6ff&logo=github" alt="Total GitHub stars"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codecay7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**codecay7/codecay7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Wave emoji"> About Me
 
-Here are some ideas to get you started:
+```yaml
+name: Diwakar Kumar
+handle: codecay7
+role: Fullstack Developer | Freelancer
+location: Delhi, India 🇮🇳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What I'm building right now
+current_project: Cocable AI
+project_status: Live ✅
+project_url: https://cocableai.vercel.app
+description: AI background removal SaaS with TensorFlow.js
+
+# What's next
+learning: AWS, Docker, System Design
+open_to: Freelance Projects, Collaborations
+contact: codecay497@gmail.com
