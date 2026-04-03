@@ -49,6 +49,11 @@ Fullstack e-commerce connecting local stores with customers. Three user roles wi
 - 🔐 JWT multi-role auth (3 user types)
 - 🧪 Full test coverage (Vitest + Jest)
 
+<p>
+  <a href="https://bazzarnet-ecom.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-58a6ff?style=for-the-badge" alt="Live Demo"/></a>
+  <a href="https://github.com/codecay7/Bazzarnet.ecom"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github" alt="Source Code"/></a>
+</p>
+
 ### 🤖 Cocable AI | `AI Image Editing Suite`
 SaaS app with in-browser AI background removal via TensorFlow.js. Credit-based pricing with Razorpay payments & Supabase backend.
 - **Stack:** `React` `TypeScript` `Supabase` `TensorFlow.js` `Razorpay` `shadcn`
@@ -57,6 +62,11 @@ SaaS app with in-browser AI background removal via TensorFlow.js. Credit-based p
 - 💳 Razorpay payments + credit system
 - 🔐 Supabase Auth + Postgres + Edge Fn
 - 🖼️ Auto-saved creations gallery
+
+<p>
+  <a href="https://cocableai.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-58a6ff?style=for-the-badge" alt="Live Demo"/></a>
+  <a href="https://github.com/codecay7/cocable"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github" alt="Source Code"/></a>
+</p>
 
 ---
 
@@ -79,9 +89,9 @@ SaaS app with in-browser AI background removal via TensorFlow.js. Credit-based p
 
 <p align="center">
   <a href="mailto:codecay497@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/your-handle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/codecay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/codecay"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/codecay"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center">
