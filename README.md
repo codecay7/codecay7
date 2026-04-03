@@ -48,9 +48,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codecay7&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codecay7/codecay7/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-</p>
+
 
 ---
 
