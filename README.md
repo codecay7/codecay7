@@ -23,13 +23,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,supabase,tailwind,vite,py,c,java,linux,docker,github&theme=dark" alt="Core tech stack"/>
 </p>
-
+<p align="center">
 | | |
 | --- | --- |
 | 🎨 **Animated UIs** — Framer Motion, GSAP | ⚡ **Fullstack** — React → Node/Supabase |
 | 🔐 **Auth & Payments** — JWT, Razorpay | 🧠 **Browser AI** — TensorFlow.js |
 | 🧪 **Tested Code** — Vitest, Jest | 🚀 **Production-Ready** — CI/CD, Scalable |
-
+</p>
 ---
 
 ## 📊 GitHub Analytics
